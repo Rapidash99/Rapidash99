@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vyacheslav!
+- I’m 21 years old Software Engineer
+- Interested in Go (and Haskell, but quietly)
+- Graduated from Innopolis University at 2021 with bachelor's degree
