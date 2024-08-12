@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Vyacheslav!
-- I’m 23 years old Software Engineer
+- I’m 25 years old Software Engineer
 - Interested in Go
 - Secretly love Haskell
 - Graduated from Innopolis University at 2021 with bachelor's degree
+- Ex Lead
 - Currently work at Uzum
